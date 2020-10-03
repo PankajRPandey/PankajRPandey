@@ -24,6 +24,14 @@
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pankajRPandey&show_icons=true&title_color=02d783&icon_color=02d783&text_color=000000&bg_color=ffffff" alt="Views" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=pankajRPandey&show_icons=true&title_color=02d783&icon_color=02d783&text_color=000000&bg_color=ffffff" alt="Github Stats" width="600">
 </p>
 
+<br/>
+<hr/>
+<details>
+<summary>Views</summary>
+<p align="center">
+<img src="https://profile-counter.glitch.me/pankajrpandey/count.svg" alt="Views" width="200">
+</p>
+</details>
