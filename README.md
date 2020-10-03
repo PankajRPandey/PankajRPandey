@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align='center'><strong>
-    I am a Software Test Automation Engineer by profession 🕘🕔 and a hobbyist Software Developer 🤖 from Thane, India 💚</strong>
+    I am a Software Test Automation Engineer by profession 🕘🕔 and a hobbyist Software Developer 🤖 from Thane, India </strong>
     <h1/>
 </h3>
 <p align="center">
