@@ -1,21 +1,11 @@
-<h1 align='center'>
-  Hello there 👋 I'm Pankaj 👽
+<h1 align="center">
+  <br>
+  <img src="images/intro.png" alt="Hello, I'm Pankaj" width="600">
+  <br>
 </h1>
 
-<p align='center'>
-  A Software Tester, QA Engineer and, a hobbyist Software Developer from Mumbai, India.
-</p>
-<!--
-**PankajRPandey/PankajRPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'><strong>
+    I am a Software Test Automation Engineer by profession and a hobbyist Software Developer from Mumbai, India.</strong>
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1/>
