@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align='center'><strong>
-    I am a Software Test Automation Engineer by profession 🕘🕔 and a hobbyist Software Developer 🤖 from Thane, India </strong>
+    I am a Software Test Automation Engineer 👽 by profession 🕘🕔 and a hobbyist Software Developer 👽 from Thane, India</strong>
     <h1/>
 </h3>
 <p align="center">
@@ -30,8 +30,12 @@
 <br/>
 <hr/>
 <details>
-<summary>Views</summary>
+<summary><i>Profile Visits</i></summary>
 <p align="center">
-<img src="https://profile-counter.glitch.me/pankajrpandey/count.svg" alt="Views" width="200">
+<img src="https://badges.pufler.dev/visits/PankajRPandey/PankajRPandey?style=for-the-badge&labelColor=02d783&color=02d783" alt="Visits">
 </p>
 </details>
+
+<br/>
+
+*This profile was created by using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Badges](https://github.com/puf17640/git-badges) and [Shields.io](https://github.com/badges/shields).*
