@@ -26,16 +26,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pankajRPandey&show_icons=true&title_color=02d783&icon_color=02d783&text_color=000000&bg_color=ffffff" alt="Github Stats" width="600">
 </p>
-
 <br/>
-<hr/>
+
+*This profile was created by using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Badges](https://github.com/puf17640/git-badges) and [Shields.io](https://github.com/badges/shields).*
+
 <details>
-<summary><i>Profile Visits</i></summary>
+<summary></summary>
 <p align="center">
 <img src="https://badges.pufler.dev/visits/PankajRPandey/PankajRPandey?style=for-the-badge&labelColor=02d783&color=02d783" alt="Visits">
 </p>
 </details>
-
-<br/>
-
-*This profile was created by using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Badges](https://github.com/puf17640/git-badges) and [Shields.io](https://github.com/badges/shields).*
